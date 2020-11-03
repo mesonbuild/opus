@@ -1,0 +1,9 @@
+[wrap-file]
+directory = opus-v1.3.1
+
+source_url = https://gitlab.xiph.org/xiph/opus/-/archive/v1.3.1/opus-v1.3.1.tar.gz
+source_filename = opus-v1.3.1.tar.gz
+source_hash = a4ef56e2c8fce5dba63f6db1f671e3fa5b18299d953975b6636fee211ddc882a
+
+[provide]
+opus = libopus_dep

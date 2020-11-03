@@ -1,0 +1,3 @@
+option('sse', type : 'feature', value : 'auto', description : 'Use SSE instruction set')
+option('sse2', type : 'feature', value : 'auto', description : 'Use SSE2 instruction set')
+option('sse4_1', type : 'feature', value : 'auto', description : 'Use SSE4.1 instruction set')
